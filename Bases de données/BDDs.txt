@@ -18,6 +18,8 @@ Large Movie Review Dataset
 	- Revues de films
 	- 2x25000=50000	
 	- Annotation binaire
+Fait partie de l'IMDb (Internet Movie Database), plus grande base de donnée sur les films, collaborative 
+	- http://www.imdb.com/
 
 UMICH S1650
 	- https://inclass.kaggle.com/c/si650winter11/data

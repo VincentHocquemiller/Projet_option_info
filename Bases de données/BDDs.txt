@@ -53,3 +53,6 @@ Sentiment Analysis Dataset
 	- Diverses sources
 	- 9645
 	- Données sous forme d'arbres syntaxiques pré-labellisé, peut être utilisé en apprentissage. Annotation en plusieurs niveaux (> 5)
+	
+Fin du document.
+
